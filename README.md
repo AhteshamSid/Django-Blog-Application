@@ -5,7 +5,7 @@ Demo live [click](http://brsfc.herokuapp.com/home/).
 
 1. Clone This Project `git clone https://github.com/AhteshamSid/Django-Blog-Application.git`
 2. Go To Project Directory `cd Django-Blog-Application`
-3. Go To Project Directory `cd blog-project`
+3. Go To Project Directory `cd blog_project`
 4. Create a Virtual Environment `python -m venv venv`
 5. Activate Virtual Environment `source venv/bin/activate`
 6. Install Requirements Package `pip install -r requirements.txt`
